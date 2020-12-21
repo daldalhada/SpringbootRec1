@@ -10,6 +10,6 @@ public class HelloController {
     @GetMapping("hello")
     public String hello(Model model){
         model.addAttribute("data", "daldal!!");
-        return "hello";
+        return "hello";         // hello.html에 렌더링
     }
 }
