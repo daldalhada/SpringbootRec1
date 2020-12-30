@@ -9,7 +9,8 @@
    - [2-2 MVC와 템플릿엔진](https://github.com/daldalhada/SpringbootRec1/blob/master/desc/2/2-2.md)
    - [2-3 API](https://github.com/daldalhada/SpringbootRec1/blob/master/desc/2/2-3.md) 
 ### 3. 회원 관리 예제 - 백엔드 개발
-   - [3-1 정적컨텐츠](https://github.com/daldalhada/SpringbootRec1/blob/master/desc/3/3-1.md) 
+   - [3-1 비즈니스 요구사항 정리](https://github.com/daldalhada/SpringbootRec1/blob/master/desc/3/3-1.md) 
+   - [3-2 회원 도메인과 리포지토리](https://github.com/daldalhada/SpringbootRec1/blob/master/desc/3/3-2.md) 
 ### 4. 스프링 빈과 의존관계
 ### 5. 회원 관리 예제 - 웹 MVC 개발
 ### 6. 스프링 DB접근 기술
