@@ -11,8 +11,9 @@
 ### 3. 회원 관리 예제 - 백엔드 개발
    - [3-1 비즈니스 요구사항 정리](https://github.com/daldalhada/SpringbootRec1/blob/master/desc/3/3-1.md) 
    - [3-2 회원 도메인과 리포지토리](https://github.com/daldalhada/SpringbootRec1/blob/master/desc/3/3-2.md) 
-   - [3-3 회원 리포지토리 테스트 케이스](https://github.com/daldalhada/SpringbootRec1/blob/master/desc/3/3-3.md) 
+   - [3-3 회원 리포지토리 테스트](https://github.com/daldalhada/SpringbootRec1/blob/master/desc/3/3-3.md) 
    - [3-4 회원 서비스 개발](https://github.com/daldalhada/SpringbootRec1/blob/master/desc/3/3-4.md) 
+   - [3-5 회원 서비스 테스트](https://github.com/daldalhada/SpringbootRec1/blob/master/desc/3/3-4.md) 
 ### 4. 스프링 빈과 의존관계
 ### 5. 회원 관리 예제 - 웹 MVC 개발
 ### 6. 스프링 DB접근 기술
