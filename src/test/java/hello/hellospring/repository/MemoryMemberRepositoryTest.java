@@ -26,7 +26,7 @@ class MemoryMemberRepositoryTest {           // 다른 데서 갖다 쓸 것이 
 
         repository.save(member);
 
-        Member result = repository.findById(member.getId()).orElse(null);
+        Member result = repository.findById(member.getId()).orElse(member);
 
         //System.out.println("result = " + (result == member));
         //Assertions.assertEquals(member, result);
@@ -43,7 +43,7 @@ class MemoryMemberRepositoryTest {           // 다른 데서 갖다 쓸 것이 
         member2.setName("Park");
         repository.save(member2);
 
-        Member result = repository.findByName("Kim").orElse(null);
+        Member result = repository.findByName("Kim").orElse(member1);
 
         assertThat(result).isEqualTo(member1);
         //assertThat(result).isEqualTo(member2);        // AssertionFailedError
