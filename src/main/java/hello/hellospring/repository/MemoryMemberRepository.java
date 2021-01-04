@@ -9,7 +9,6 @@ import java.util.*;
  * 동시성 문제 고려 X, 실무에서는 ConcurrentHashMap, AtomicLong 사용 고려
  */
 
-@Repository
 public class MemoryMemberRepository implements MemberRepository{
 
     private static Map<Long, Member> store = new HashMap<>();
